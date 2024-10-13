@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReactQuizApp
 DOT Frontend Internship Challenge
 =======
