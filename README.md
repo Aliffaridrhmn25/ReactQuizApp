@@ -1,7 +1,5 @@
 # ReactQuizApp
-DOT Frontend Internship Challenge
-=======
-# React + Vite
+## DOT Frontend Internship Challenge
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
